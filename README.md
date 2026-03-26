@@ -1,4 +1,22 @@
-# Tasleem Frontend
+# [Tasleem Frontend](https://tasleem-two.vercel.app/)
+
+A production-ready Vue 3 frontend for the Tasleem marketplace platform — supporting product browsing, buying, renting, cart management, user authentication, and more.
+
+![Tasleem Landing](./src/assets/imgs/land.png)
+
+## Tech Stack
+
+| Tool | Purpose |
+|---|---|
+| **Vue 3** | UI framework (Composition API) |
+| **Vite** | Build tool & dev server |
+| **Pinia** | State management |
+| **Vue Router 4** | Client-side routing |
+| **Bootstrap 5** | UI framework |
+| **Bootstrap Icons** | Icon library |
+| **Axios** | HTTP client |
+| **Vue Toastification** | Toast notifications |
+| **Sass** | CSS preprocessing |
 
 Luxury marketplace Vue 3 frontend — buy, sell & rent across Egypt.
 
